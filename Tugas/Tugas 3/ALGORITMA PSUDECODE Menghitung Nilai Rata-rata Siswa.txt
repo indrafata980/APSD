@@ -1,0 +1,39 @@
+ALGORITMA PSUDECODE Menghitung Nilai Rata-rata Siswa
+
+
+**Judul**
+Menghitung Nilai Rata-rata Siswa
+
+Memulai program:
+
+**Deklarasi**
+-NamaSiswa : string
+-NilaiPertandinganI: integer
+-NilaiPertandinganII : integer
+-NilaiPertandinganIII : integer
+-NilaiRata_rata: float
+juara : integer
+
+**Input**
+NamaSiswa
+-NilaiPertandinganI
+-NilaiPertandinganII
+-NilaiPertandinganIII
+
+**Proses**
+NilaiRata_rata = (NilaiPertandinganI + NilaiPertandinganII + NilaiPertandinganIII) / 3
+
+**If**
+-Jika nilai rata-rata yang dihasilkan lebih besar dari 80, maka menjadi Juara I.
+-Jika nilai rata-rata yang dihasilkan lebih besar dari 75, maka menjadi Juara II.
+-Jika nilai rata-rata yang dihasilkan lebih besar dari 65, maka menjadi Juara III.
+
+**Else**
+-selain itu tidak juara
+
+**Output/Hasil**
+-NamaSiswa
+-NilaiRata_rata
+-Juara
+
+Mengakhiri program

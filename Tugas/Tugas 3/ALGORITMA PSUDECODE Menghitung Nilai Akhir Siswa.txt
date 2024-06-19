@@ -1,0 +1,44 @@
+ALGORITMA PSUDECODE Menghitung Nilai Nilai Akhir Siswa
+
+**Judul**
+Menghitung Nilai Nilai Akhir Siswa
+
+Memulai program:
+
+**Deklarasi**
+-NamaSiswa : string
+-NilaiKeaktifan : integer
+-NilaiTugas : integer
+-NilaiUjian : integer
+-NilaiAkhir : float
+
+**Input**
+-NamaSiswa
+-NilaiKeaktifan
+-NilaiTugas
+-NilaiUjian
+
+**Proses**
+-NilaiMurniKeaktifan = NilaiKeaktifan * 0.2
+-NilaiMurniTugas = NilaiTugas * 0.3
+-NilaiMurniUjian = NilaiUjian * 0.5
+-NilaiAkhir = (NilaiMurniKeaktifan + NilaiMurniTugas + NilaiMurniUjiam)
+
+**If**
+-Jika nilai Akhir yang dihasilkan lebih besar dari 80, maka mendapat grade “A”.
+-Jika nilai Akhir yang dihasilkan lebih besar dari 70, maka mendapat grade “B”.
+-Jika nilai Akhir yang dihasilkan lebih besar dari 56, maka mendapat grade “C”.
+-Jika nilai Akhir yang dihasilkan lebih besar dari 46, maka mendapat grade “D”.
+
+**Else**
+-Selain itu mendapat grade “E”.
+
+**Output/Hasil**
+-NamaSiswa
+-NilaiMurniKeaktifan 
+-NilaiMurniTugas 
+-NilaiMurniUjian
+-NilaiAkhir
+-Grade
+
+Mengakhiri Program

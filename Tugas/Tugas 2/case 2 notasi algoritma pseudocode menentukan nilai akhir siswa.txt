@@ -1,0 +1,14 @@
+Membuat sebuah program menghitung nilai akhir seorang siswa dari kursus yang diikuti.
+
+nama siswa : string
+nilai keaktifan, nilai tugas, nilai ujian : integer
+nilai murni keaktifan, nilai murni tugas, nilai murni ujian : integer
+nilai akhir : integer
+
+read(nama siswa, nilai keaktifan, nilai tugas, nilai ujian, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
+nilai murni keaktifan = nilai keaktifan * 20%
+nilai murni tugas = nilai tugas * 50%
+nilai murni ujian = nilai ujian * 30%
+nilai akhir = nilai murni keaktifan + nilai murni tugas + nilai murni ujian
+write(nama siswa, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
+end

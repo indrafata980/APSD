@@ -1,0 +1,4 @@
+Menghitung nilai rata-rata siswa
+1.langkah pertama adalah memasukan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3
+2.langkah selanjutnya menghitung rata rata dengan cara menjumlahkan nilai tugas 1,2 dan 3 kemudian membaginya dengan 3
+3.langkah terakhir adalah menampikan hasil hitungan nilai rata-rata bisa ditampilkan pada layar monitor atau ke kertas
