@@ -1,14 +1,34 @@
-Membuat sebuah program menghitung nilai akhir seorang siswa dari kursus yang diikuti.
+ALGORITMA PSUDECODE Menghitung Nilai Nilai Akhir Siswa
 
-nama siswa : string
-nilai keaktifan, nilai tugas, nilai ujian : integer
-nilai murni keaktifan, nilai murni tugas, nilai murni ujian : integer
-nilai akhir : integer
+**Judul**
+Menghitung Nilai Nilai Akhir Siswa
 
-read(nama siswa, nilai keaktifan, nilai tugas, nilai ujian, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
-nilai murni keaktifan = nilai keaktifan * 20%
-nilai murni tugas = nilai tugas * 50%
-nilai murni ujian = nilai ujian * 30%
-nilai akhir = nilai murni keaktifan + nilai murni tugas + nilai murni ujian
-write(nama siswa, nilai murni keaktifan, nilai murni tugas, nilai murni ujian, nilai akhir)
-end
+Memulai program:
+
+**Deklarasi**
+-NamaSiswa : string
+-NilaiKeaktifan : integer
+-NilaiTugas : integer
+-NilaiUjian : integer
+-NilaiAkhir : float
+
+**Input**
+-NamaSiswa
+-NilaiKeaktifan
+-NilaiTugas
+-NilaiUjian
+
+**Proses**
+-NilaiMurniKeaktifan = NilaiKeaktifan * 0.2
+-NilaiMurniTugas = NilaiTugas * 0.3
+-NilaiMurniUjian = NilaiUjian * 0.5
+-NilaiAkhir = (NilaiMurniKeaktifan + NilaiMurniTugas + NilaiMurniUjiam)
+
+**Output/Hasil**
+-NamaSiswa
+-NilaiMurniKeaktifan 
+-NilaiMurniTugas 
+-NilaiMurniUjian
+-NilaiAkhir
+
+Mengakhiri Program
