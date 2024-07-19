@@ -1,7 +1,11 @@
 Algoritma Naratif deskriptif PROGRAM MENGHITUNG NILAI RATA-RATA SISWA
 1. Langkah pertama mulai program tampilkan "PROGRAM MENGHITUNG NILAI RATA-RATA SISWA"
-2. Selanjutnya memasukan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3
-2. Berikutnya simpan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3 yang sudah dimasukan
+2. Selanjutnya Inisialisasikan data siswa 
+NIM  : string
+nama : string
+nilai tugas 1,2 dan 3 : integer
+3. Selanjutnya memasukan data siswa NIM,nama,dan nilai tugas 1,2 dan 3
+4. Berikutnya simpan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3 yang sudah dimasukan
 3. langkah selanjutnya menghitung rata rata dengan cara menjumlahkan nilai tugas 1,2 dan 3 kemudian membaginya dengan 3
 4. kemudian simpan nilai rata-rata siswa yang sudah dihitung
-5. langkah terakhir Tampilkan "Nim [NIM] Siswa yang bernama [Nama] memperoleh nilai rata-rata [Nilai Rata-rata] dari hasil tugas yang diikutinya." selesai
+5. langkah terakhir Tampilkan "Nim .... Siswa yang bernama .... memperoleh nilai rata-rata ...... dari hasil tugas yang diikutinya." selesai.
