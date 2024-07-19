@@ -1,4 +1,7 @@
-Menghitung nilai rata-rata siswa
-1.langkah pertama adalah memasukan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3
-2.langkah selanjutnya menghitung rata rata dengan cara menjumlahkan nilai tugas 1,2 dan 3 kemudian membaginya dengan 3
-3.langkah terakhir adalah menampikan hasil hitungan nilai rata-rata bisa ditampilkan pada layar monitor atau ke kertas
+Algoritma Naratif deskriptif PROGRAM MENGHITUNG NILAI RATA-RATA SISWA
+1. Langkah pertama tampilkan "PROGRAM MENGHITUNG NILAI RATA-RATA SISWA"
+2. Selanjutnya memasukan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3
+2. Berikutnya simpan data siswa seperti NIM,nama,dan nilai tugas 1,2 dan 3 yang sudah dimasukan
+3. langkah selanjutnya menghitung rata rata dengan cara menjumlahkan nilai tugas 1,2 dan 3 kemudian membaginya dengan 3
+4. kemudian simpan nilai rata-rata siswa yang sudah dihitung
+5. langkah terakhir Tampilkan "Nim [NIM] Siswa yang bernama [Nama] memperoleh nilai rata-rata [Nilai Rata-rata] dari hasil tugas yang diikutinya."
