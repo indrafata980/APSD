@@ -1,16 +1,31 @@
-Notasi Algoritma Pseudocode
+ALGORITMA PSUDECODE Menghitung Nilai Rata-rata Siswa
 
-> Membuat sebuah program menghitung nilai rata-rata siswa.
 
-Nama Siswa : string
-NIM Siswa : integer
-Nilai Tugas I : integer
-Nilai Tugas II : integer
-Nilai Tugas III : integer
-Nilai Rata-rata : integer
+**Judul**
+Menghitung Nilai Rata-rata Siswa
 
-read(NIM Siswa, Nama Siswa, Nilai Tugas I, Nilai Tugas II, Nilai Tugas III, Nilai Rata-rata)
-Nilai Rata-rata = (Nilai Tugas 1 + Nilai Tugas II + Nilai Tugas III) /3
-write(NIM Siswa, Nama Siswa, Nilai Rata-rata)
-end
+Memulai program:
 
+**Deklarasi**
+-NIM : integer
+-NamaSiswa : string
+-NilaiTugasI: integer
+-NilaiTugasII : integer
+-NilaiTugasIII : integer
+-NilaiRata_rata: float
+
+**Input**
+NamaSiswa
+-NilaiTugasI
+-NilaiTugasII
+-NilaiTugasIII
+
+**Proses**
+NilaiRata_rata = (NilaiTugasI + NilaiTugasII + NilaiTugasIII) / 3
+
+**Output/Hasil**
+-NIM
+-NamaSiswa
+-NilaiRata_rata
+
+Mengakhiri program
